@@ -51,7 +51,7 @@ Before running the script, make sure to update the following placeholders in the
 Run the script using Python:
 
 ```bash
-python script.py
+python outreach.py
 ```
 
 The script will:
